@@ -1,0 +1,15 @@
+@charset "utf-08";
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+body {
+    max-height: 100vh;
+    width: 100vw;
+}
+
